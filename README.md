@@ -4,6 +4,8 @@
 
 This model was trained on [Cat--VS--Dogs](https://www.kaggle.com/datasets/pybear/cats-vs-dogs) dataset from kaggle
 
+Link to the [pretrained model](https://drive.google.com/file/d/1I51epIYxm8YYtGp4rY06yZjSV4uPLQET/view?usp=sharing)
+
 ## Steps for installation
 - $ git clone this repo
 - download the dataset from given website
