@@ -30,3 +30,9 @@ MaxPooling2D | (None, 23, 23, 64) | 0
 Flattenn | (None, 33856) | 0
 Dense | (None, 64) | 2166848
 Dense | (None, 1) | 65
+
+
+## Graphs
+- ![image](https://github.com/anuragdaksh7/cat-dog-identifier/assets/84393491/5fcc05c9-d859-4f62-a118-358d86a6e711)
+- ![image](https://github.com/anuragdaksh7/cat-dog-identifier/assets/84393491/c1e661fe-7763-4851-acf3-740ef6a8e56f)
+
